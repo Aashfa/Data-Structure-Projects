@@ -5,6 +5,11 @@
 
 This project implements a console-based maze game in C++ that offers an engaging experience for users. The game leverages graph theory to generate mazes dynamically and challenges players to navigate through the maze while avoiding obstacles and collecting power-ups.
 
+<img width="224" alt="image" src="https://github.com/Aashfa/Data-Structure-Projects/assets/140749591/fe4969e5-ccac-4493-8ee1-2e2c27c543fa">
+<img width="357" alt="image" src="https://github.com/Aashfa/Data-Structure-Projects/assets/140749591/d400c4ac-9033-4350-a531-72853c64570b">
+<img width="202" alt="image" src="https://github.com/Aashfa/Data-Structure-Projects/assets/140749591/98b69f58-6266-402d-83bd-0738609596eb">
+
+
 **Introduction:**
 
 The provided code is for a maze game implemented in C++. The game involves navigating a player character ('C') through a maze to reach the exit ('E') while avoiding obstacles ('!') and collecting power-ups ('+'). The maze is generated using a graph-based approach with nodes representing different parts of the maze.
